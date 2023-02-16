@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c2782fa5.css","mappings":"AAAA,cACI,YACJ,CCFA,EACE,QAAS,CACT,SACF","sources":["features/card/Card.css","index.css"],"sourcesContent":[".height-Total{\r\n    height: 100vh;\r\n}","* {\n  margin: 0;\n  padding: 0;\n}"],"names":[],"sourceRoot":""}
