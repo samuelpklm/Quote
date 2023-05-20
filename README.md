@@ -21,7 +21,7 @@ This is a solution to the [Random Quote Machine](https://www.freecodecamp.org/le
 ### Links
 
 - Solution URL: [Solution](https://github.com/samuelpklm/quote)
-- Live Site URL: [Live Site](https://samuelpklm.github.io/quote/))
+- Live Site URL: [Live Site](https://samuelpklm.github.io/quote/)
 
 ## My process
 
